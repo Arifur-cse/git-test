@@ -1,2 +1,1 @@
-# git-test
-This is for test
+This is only for testing
